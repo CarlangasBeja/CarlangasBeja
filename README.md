@@ -38,3 +38,11 @@ Cada repositorio busca documentar el crecimiento y la aplicación real de los co
 🎭 “A veces hay que perder una batalla para ganar la guerra del crecimiento personal.” — Rurouni Kenshin
 
 😂 “El código tiene bugs, la vida tiene plot twists.”
+
+📍 Contacto
+
+Ubicación: Ambato, Ecuador
+
+Correo: carlangasbeja@gmail.com
+
+GitHub: @carlangasbeja
