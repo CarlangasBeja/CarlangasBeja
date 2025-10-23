@@ -1,6 +1,6 @@
 👨‍💻 **Bienvenido a mi Perfil de GitHub**
 
-¡Hola! Soy Carlarngas Beja, estudiante de la Universidad Técnica de Ambato (UTA).  
+¡Hola! Soy Carlos Bejarano, estudiante de la Universidad Técnica de Ambato (UTA) y futuro Ingeniero de SW.  
 Este espacio está dedicado a proyectos y prácticas académicas desarrolladas durante mi formación universitaria.
 
 ---
